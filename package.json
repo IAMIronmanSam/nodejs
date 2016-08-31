@@ -1,0 +1,19 @@
+{
+  "name": "myservice",
+  "version": "1.0.0",
+  "description": "Simple REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arivazhagan",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.1.1",
+    "underscore": "^1.8.3",
+    "uuid": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
